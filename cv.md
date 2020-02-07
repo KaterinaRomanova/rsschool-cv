@@ -1,4 +1,4 @@
-#  <h1 align="center">Katerina Romanova</h1>
+#  Katerina Romanova
 ## Contact Info
 - *City: Minsk, Belarus* 
 - *E-mail adress: kateromanova333@gmail.com*
