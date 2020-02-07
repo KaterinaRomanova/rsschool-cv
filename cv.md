@@ -8,3 +8,10 @@
 - HTML5
 - CSS3
 - Linux
+## Experience
+*2017 -Current - QA - engineer, Mobile Service Ltd.*
+## Education
+- *BNTU - Information Systems and Technology*
+- *Linux System Administration - High-Tech Park Belarus.*
+## English
+*Pre-Intermidiate*
