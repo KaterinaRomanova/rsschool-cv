@@ -14,4 +14,4 @@
 - *BNTU - Information Systems and Technology*
 - *Linux System Administration - High-Tech Park Belarus.*
 ## English
-*Pre-Intermidiate*
+*Pre-Intermediate*
