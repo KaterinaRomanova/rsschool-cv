@@ -1,0 +1,41 @@
+body{
+  background-color:rgba(229, 233, 224, 0.91);
+}
+
+body>div{
+  width: 1024px;
+  padding-top: 5px;
+  margin: auto;
+  font-family: "Old Standard TT", "Times", "Times New Roman", serif;
+  font-size: 16px;
+  line-height: 32px;
+  color: #000000;
+  background-color:rgba(255, 255, 255, 0.91);
+  text-align:center;
+}
+
+
+h2{
+text-transform: uppercase;
+}
+img{
+ border-radius: 50%;
+}
+
+p{
+padding-left: 30px;
+text-align: justify;
+}
+
+li{
+  text-align: justify;
+  }
+
+footer{
+  border-top: 1px solid #696969;
+}
+
+footer p{
+  text-align:center;
+}
+
